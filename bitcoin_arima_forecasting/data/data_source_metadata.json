@@ -1,0 +1,12 @@
+{
+  "source": "Blockchain.com Charts API",
+  "chart_page": "https://www.blockchain.com/ko/charts/market-price",
+  "request_url": "https://api.blockchain.info/charts/market-price?timespan=1year&format=json&sampled=false",
+  "retrieved_utc": "2026-11-25 05:11:32 UTC",
+  "metric_name": "Market Price (USD)",
+  "metric_description": "Average USD market price across major bitcoin exchanges.",
+  "unit": "USD",
+  "period": "day",
+  "observations": 366,
+  "csv_sha256": "247e3fa4cf7763584543337cc004507351c8f6bbb1a6201fe023f785d99829d4"
+}

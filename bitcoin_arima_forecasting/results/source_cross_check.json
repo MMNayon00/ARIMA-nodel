@@ -1,0 +1,13 @@
+{
+  "source": "https://api.exchange.coinbase.com/products/BTC-USD/candles",
+  "same_date": {
+    "days": 298,
+    "mean_abs_diff_pct": 1.6351587856475933,
+    "max_abs_diff_pct": 16.265356500135365
+  },
+  "previous_day_close": {
+    "days": 297,
+    "mean_abs_diff_pct": 0.020062284022150694,
+    "max_abs_diff_pct": 0.13287442851488418
+  }
+}
